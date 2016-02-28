@@ -1,6 +1,6 @@
 name: ReThinc
 favicon: null
-layout_spectrum: 0.836748585337773
+layout_spectrum: 1
 typography_spectrum: 0.2621
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#848484'
     - '#d4d4d4'
     - '#b2b2b2'
-  brandStrength: 0.32552123279310763
+  brandStrength: 0.25
   lightness: 0.4031377313658595
   saturation: 0.6169519179966301
   rhythmicContrast: 0.5184150871355087
