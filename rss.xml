@@ -4,8 +4,15 @@
         <description><![CDATA[ReThinc Creative Consulting]]></description>
         <link>https://thegrid.ai/rethinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 18:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 23:51:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rethinc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing the Grid!]]></title>
+            <description><![CDATA[<article><h1>Testing the Grid!</h1><p>Testing the Grid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb65d450-b5b1-47b9-99ca-b61bdb81ff48.png"></article>]]></description>
+            <link>https://thegrid.ai/rethinc/testing-the-grid/index.html</link>
+            <guid isPermaLink="false">56da2c2e-6ef7-4ef5-8ecb-441cdd459b68</guid>
+            <pubDate>Tue, 05 Apr 2016 23:50:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/099a0b72-e902-4dfd-949c-2c3403719b74.png">]]></description>
